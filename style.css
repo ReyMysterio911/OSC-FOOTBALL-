@@ -60,3 +60,18 @@ body, html {
 .info {
     margin:20px 200px;
 }
+
+.book {
+    padding: 15px 30px;
+    max-width: 150;
+    margin: 10px auto;
+    border-radius: 1rem;
+    font-size: 2rem;
+    color:orange;
+
+}
+
+nav ul li a:hover {
+    color:whitesmoke
+    transition: 0.8s;
+}
