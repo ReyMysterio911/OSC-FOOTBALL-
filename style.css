@@ -13,7 +13,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
-    background-color:darkorange
+    background-color:rgb(236, 233, 231);
     /* position: sticky;
     top: 0; */
     /* height: 80px; */
@@ -72,7 +72,7 @@ body, html {
 }
 
 nav ul li a:hover {
-    color:whitesmoke;
+    color:rgb(0, 0, 0);
     transition: 0.8s;
 }
 
@@ -164,7 +164,7 @@ nav-links ul li {
 .text-box-indext {
 
     width: 90%;
-    color:orange
+    color:rgb(254, 254, 254);
     position: absolute;
     top: 50%;
     left: 50%;
